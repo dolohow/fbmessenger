@@ -1,7 +1,7 @@
 import webbrowser
 import json
 import inspect
-from PyQt4 import QtCore
+from PyQt5 import QtCore
 
 from . import network
 from . import settings
